@@ -8,7 +8,7 @@ import axios from 'axios'
 import moment from 'moment-timezone'
 import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
-//} Agregué primero el número del Bot como prioridad | suma el número para ser uno 
+//} Agregué primero el número del Bot como prioridad | 9837329484
 
 global.owner = [
 ['5492266466080', //𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true],
