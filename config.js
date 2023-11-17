@@ -87,18 +87,18 @@ global.moment = moment
 global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈'
 global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 
-// ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
-// EN ➜ This part is to display someone's contact using #contact
+
+//} »------------------------------Ꮚ⁠˘⁠ ⁠ꈊ⁠ ⁠˘⁠ ⁠Ꮚ«{
 global.official = [ 
 ['18059196237', 'Gata Dios 💻', 1], 
 ['5492266466080', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ['59894808483', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
 ['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
-global.mail = '' //agrega tú correo
-global.desc = '' //agrega una descripción corta
-global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '' //agrega tú país ejemplo: 🇪🇨
+global.mail = '' // jhinnaesmeraldak@gmail.com
+global.desc = '' // ESMERALDA.BOT solo es para ayudante del fk.
+global.desc2 = '' // (En caso de estar en un grupo ESMERALDA.BOT solo sera utilizada por los administradores sean responsables.)
+global.country = '' //agrega tu pais: 🇮🇹
 
 global.vs = '1.3.2-(beta)'
 global.vsJB = '4.5 (Beta)'
@@ -183,7 +183,7 @@ global.notsent = '❗'
 global.waitemot = '⌛'
 global.waitemot2 = '⏳'
 
-global.multiplier = 60 // Cuanto más alto, más difícil subir de nivel 
+global.multiplier = 60 // () => { 
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
