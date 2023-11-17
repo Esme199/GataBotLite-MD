@@ -8,30 +8,34 @@ import axios from 'axios'
 import moment from 'moment-timezone'
 import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
-// ES ➜ Agregué primero el número del Bot como prioridad
-// ES ➜ Si desea recibir reportes debe de usar los tres parámetros (Número, nombre y true)
-// EN ➜ Add the Bot number as priority first
-// EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
-global.owner = [['5492266466080', '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈
-['573026191480', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 💖🐈', true], ['593968585383'], ['5492266466080'], ['5217294888993'], ['5492266613038'], ['51948705559']]
+//} Agregué primero el número del Bot como prioridad | suma el número para ser uno 
+
+global.owner = [
+['5492266466080', //𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true],
+['573026191480', 'dueña (1) 👩🏻‍💻', true], 
+['593968585383'], ['5492266466080'], ['5217294888993'], ['5492266613038'], ['51948705559']]
+
+   //Ꮚ⁠˘⁠ ⁠ꈊ⁠ ⁠˘⁠ ⁠Ꮚ------------------------------------------------------------------------------------Ꮚ⁠˘⁠ ⁠ꈊ⁠ ⁠˘⁠ ⁠Ꮚ
 
 global.mods = [] 
 global.prems = []
    
-// ES ➜ Agregue el código de idioma el cual usará GataBot  
-// EN ➜ Add the language code which GataBot will use
-//  es = Español      id = Bahasa Indonesia       ar = عرب
+
+///} »IDIOMA : LENGUAJE« {///
+//agregar el idioma que quieres que tenga GataBotLite-MD 
+//  es = Español      id = Bahasa Indonesia      
 //  en = English      pt = Português 
+//  ar = عرب
+
+
 global.lenguajeGB = es  //<-- Predeterminado en idioma Español 
 
-// confirmación en el ajuste de idioma y owner en la consola
-global.languageLen = ""
-global.registerNumber = ""
+// -------------------------Ꮚ⁠˘⁠ ⁠ꈊ⁠ ⁠˘⁠ ⁠Ꮚ
 
-// ES ➜ Consigue Apikey en https://platform.openai.com/account/api-keys
 global.openai_key = 'sk-0'
 
-// ES ➜ Consigue tu ID de organizacion en: https://platform.openai.com/account/org-settings
+// ----------------------------Ꮚ⁠˘⁠ ⁠ꈊ⁠ ⁠˘⁠ ⁠Ꮚ
+
 global.openai_org_id = 'org-3'
 
 global.keysZens = ['LuOlangNgentot', 'c2459db922', '37CC845916', '6fb0eff124', 'hdiiofficial', 'fiktod', 'BF39D349845E', '675e34de8a', '0b917b905e6f']
