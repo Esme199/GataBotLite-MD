@@ -95,8 +95,8 @@ global.official = [
 ['59894808483', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
 ['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
-global.mail = '' // jhinnaesmeraldak@gmail.com
-global.desc = '' // ESMERALDA.BOT solo es para ayudante del fk.
+global.mail = '' // jhinnaesmeraldak@gemail.com
+global.desc = '' // ESMERALDA.BOT SOLO ES PARA AYUDANTE DEL FK, QUIERES SABER SOBRE MIS COMANDOS AGREGAR #menu, .menu
 global.desc2 = '' // (En caso de estar en un grupo ESMERALDA.BOT solo sera utilizada por los administradores sean responsables.)
 global.country = '' //agrega tu pais: 🇮🇹
 
