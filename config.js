@@ -28,7 +28,7 @@ global.prems = []
 //  en = English      pt = Português 
 //  ar = عرب
 
-global.lenguajeGB = es //Idioma de GataBotLite-MD, Ejemplo: es | en | pt...
+global.lenguajeGB = es //Idioma de GataBotLite-MD, es.
 
 // -------------------------Ꮚ⁠˘⁠ ⁠ꈊ⁠ ⁠˘⁠ ⁠Ꮚ
 
@@ -189,5 +189,4 @@ let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
 unwatchFile(file)
 console.log(chalk.bold.greenBright(lenguajeGB['smsConfigBot']().trim()))
-import(`${file}?update=${Date.now()}`)
-})
+import(`${file}?update=${Date.now()}`) }))
