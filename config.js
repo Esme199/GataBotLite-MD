@@ -8,12 +8,12 @@ import axios from 'axios'
 import moment from 'moment-timezone'
 import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
-//} Agregué primero el número del Bot como prioridad | 9837329484
+. Agregué primero el número del Bot como prioridad | Add the numbers to be Oner -.
 
 global.owner = [
 ['5492266466080', //𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true],
-['573026191480', 'dueña (1) 👩🏻‍💻', true], 
-['593968585383'], ['5492266466080'], ['5217294888993'], ['5492266613038'], ['51948705559']]
+['573026191480', ' Owner (1) 👩🏻‍💻', true], 
+['593968585383'], ['5492266466080'], ['5217294888993'], ['5492266613038'], ['51948705559'],
 
    //Ꮚ⁠˘⁠ ⁠ꈊ⁠ ⁠˘⁠ ⁠Ꮚ------------------------------------------------------------------------------------Ꮚ⁠˘⁠ ⁠ꈊ⁠ ⁠˘⁠ ⁠Ꮚ
 
@@ -23,12 +23,12 @@ global.prems = []
 
 ///} »IDIOMA : LENGUAJE« {///
 //agregar el idioma que quieres que tenga GataBotLite-MD 
+// Add the lenguage you want GataBotLite-MD to have
 //  es = Español      id = Bahasa Indonesia      
 //  en = English      pt = Português 
 //  ar = عرب
 
-
-global.lenguajeGB = es  //<-- Predeterminado en idioma Español 
+global.lenguajeGB = es //Idioma de GataBotLite-MD, Ejemplo: es | en | pt...
 
 // -------------------------Ꮚ⁠˘⁠ ⁠ꈊ⁠ ⁠˘⁠ ⁠Ꮚ
 
@@ -95,9 +95,9 @@ global.official = [
 ['59894808483', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
 ['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
-global.mail = '' // jhinnaesmeraldak@gemail.com
-global.desc = '' // ESMERALDA.BOT SOLO ES PARA AYUDANTE DEL FK, QUIERES SABER SOBRE MIS COMANDOS AGREGAR #menu, .menu
-global.desc2 = '' // (En caso de estar en un grupo ESMERALDA.BOT solo sera utilizada por los administradores sean responsables.)
+global.mail = '' // jhinnaesmeraldak@gmail.com
+global.desc = '' // ESMERALDA.BOT SOLO ES PARA AYUDANTE DEL FK, QUIERES SABER SOBRE MIS COMANDOS AGREGAR #menu.
+global.desc2 = '' // (EN CASO DE ESTAR EN UN GRUPO ESMERALDA.BOT SOLO SERÁ UTILIZADA POR LOS ADMINISTRADORES SEAN RESPONSABLES.)
 global.country = '' //agrega tu pais: 🇮🇹
 
 global.vs = '1.3.2-(beta)'
@@ -129,7 +129,7 @@ global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
 
 global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
-global.nomorown = owner[0][0]
+global.nomorown = owner[1][1]
 
 global.imagen1 = fs.readFileSync('./media/menus/Menu3.jpg')
 global.imagen2 = fs.readFileSync('./media/menus/img1.jpg')
