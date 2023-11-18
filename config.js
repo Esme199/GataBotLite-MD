@@ -10,7 +10,7 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //Agregué primero el número del Bot como prioridad | Add the numbers to be Oner -.
 
-global.owner = [ ESMERALDABOT 1
+global.owner = [
 ['5492266466080', //𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true],
 ['573026191480', ' Owner (1) 👩🏻‍💻', true], 
 ['593968585383'], ['5492266466080'], ['5217294888993'], ['5492266613038'], ['51948705559'],
