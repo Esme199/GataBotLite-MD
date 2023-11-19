@@ -12,7 +12,8 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 // ES ➜ Si desea recibir reportes debe de usar los tres parámetros (Número, nombre y true)
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
-global.owner = [['5492266466080', '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈
+global.owner = ['9837329484', 'ESMERALDA.BOT👩🏻‍💻', true], //ESMERALDA.BOT 👩🏻‍💻
+['5492266466080', '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈
 ['573026191480', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 💖🐈', true], ['593968585383'], ['5492266466080'], ['5217294888993'], ['5492266613038'], ['51948705559']]
 
 global.mods = [] 
@@ -22,11 +23,11 @@ global.prems = []
 // EN ➜ Add the language code which GataBot will use
 //  es = Español      id = Bahasa Indonesia       ar = عرب
 //  en = English      pt = Português 
-global.lenguajeGB = es  //<-- Predeterminado en idioma Español 
+global.lenguajeGB = es   //<-- Predeterminado en idioma Español 
 
 // confirmación en el ajuste de idioma y owner en la consola
-global.languageLen = ""
-global.registerNumber = ""
+global.languageLen = "es"
+global.registerNumber = "9831913235"
 
 // ES ➜ Consigue Apikey en https://platform.openai.com/account/api-keys
 global.openai_key = 'sk-0'
@@ -91,10 +92,10 @@ global.official = [
 ['59894808483', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
 ['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
-global.mail = '' //agrega tú correo
-global.desc = '' //agrega una descripción corta
-global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '' //agrega tú país ejemplo: 🇪🇨
+global.mail = 'jhinnaesmeraldak@gmail.com' //agrega tú correo
+global.desc = 'ESMERALDA.BOT.BONITA, SI QUIERES SABER MAS SOBRE MIS COMANDOS COLOCAR #menu' //agrega una descripción corta
+global.desc2 = 'ESMERALDA.BOT.BONITA, ES SOLO PARA AYUDANTIA DEL FK, SEAN RESPONSABLES AL UTILIZARLA Y SI ESTA EN ALGUN GRUPO SOLO ADMIS DEBEN DE UTILIZARLA CON RESPONSABILIDAD.' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
+global.country = '🇲🇽' //agrega tú país ejemplo: 🇪🇨
 
 global.vs = '1.3.2-(beta)'
 global.vsJB = '4.5 (Beta)'
