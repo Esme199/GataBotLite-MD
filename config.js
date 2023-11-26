@@ -92,10 +92,10 @@ global.official = [
 ['59894808483', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
 ['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
-global.mail = 'jhinnaesmeraldak@gmail.com' //agrega tú correo
+global.mail = 'jhinnaesmeraldak@gmail.com' 
 global.desc = 'ESMERALDA.BOT.BONITA, SI QUIERES SABER MAS SOBRE MIS COMANDOS COLOCAR #menu' //agrega una descripción corta
 global.desc2 = 'ESMERALDA.BOT.BONITA, ES SOLO PARA AYUDANTIA DEL FK, SEAN RESPONSABLES AL UTILIZARLA Y SI ESTA EN ALGUN GRUPO SOLO ADMIS DEBEN DE UTILIZARLA CON RESPONSABILIDAD.' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '🇲🇽' //agrega tú país ejemplo: 🇪🇨
+global.country = '🇲🇽' 
 
 global.vs = '1.3.2-(beta)'
 global.vsJB = '4.5 (Beta)'
